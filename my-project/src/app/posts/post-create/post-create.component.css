@@ -3,6 +3,11 @@ mat-form-field{
   color: black;
 }
 
+mat-card {
+  background-color: white
+}
+
+
 
 mat-form-field,
 textarea {
