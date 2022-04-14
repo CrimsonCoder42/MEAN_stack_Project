@@ -1,10 +1,13 @@
 mat-form-field{
   background-color: whitesmoke;
   color: black;
+  margin-bottom: 1em;
 }
 
 mat-card {
-  background-color: white
+  background-color: white;
+  color: black;
+  margin-top: 1em;
 }
 
 
