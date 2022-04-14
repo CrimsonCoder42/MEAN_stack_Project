@@ -1,4 +1,9 @@
 :host {
   display: block;
   margin-top: 1rem;
+  color: black;
+}
+
+.info-text {
+  text-align: center;
 }
